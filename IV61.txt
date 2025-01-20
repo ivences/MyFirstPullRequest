@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is my unique file.
-=======
-
->>>>>>> fc0d32578027794fea4e4183f163a6975a1f2fb3
